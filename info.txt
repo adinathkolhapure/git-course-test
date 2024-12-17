@@ -1,0 +1,2 @@
+This is a info file
+This file contains info about people in names file
