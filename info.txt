@@ -1,2 +1,4 @@
 This is a info file
 This file contains info about people in names file
+This is a git course by kunal kushwaha
+I am learning git
